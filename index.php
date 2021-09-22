@@ -4,7 +4,7 @@
 <head>
   <title>HTML Redirect</title>
   <meta http-equiv="refresh" 
-        content="2; url = https://contractor-foreman.hellonext.co" />
+        content="1; url = https://contractor-foreman.hellonext.co" />
 </head>
   
 <body>
